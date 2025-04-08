@@ -19,9 +19,9 @@ A React-based web app for generating, customizing, and saving color palettes. Pe
 - **Routing**: React Router v6
 - **Deployment**: Netlify
 
-  ## 🚀 Quick Start
-  Page Links:
-  
-  https://color-palette-generator070425.netlify.app/ (working link)
+## 🚀 Quick Start
+Page Links:
 
-  https://anas-ysf.github.io/ 
+https://color-palette-generator070425.netlify.app/ (working link)
+
+https://anas-ysf.github.io/ 
