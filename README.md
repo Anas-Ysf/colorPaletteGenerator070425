@@ -21,6 +21,7 @@ A React-based web app for generating, customizing, and saving color palettes. Pe
 
   ## 🚀 Quick Start
   Page Links:
+  
   https://color-palette-generator070425.netlify.app/ (working link)
 
   https://anas-ysf.github.io/ 
